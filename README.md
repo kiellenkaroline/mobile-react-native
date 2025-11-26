@@ -2,6 +2,9 @@
 
 ## Objetivo principal
 - Criar um site funcional, responsivo e com boa usabilidade. Que funcione tanto Web como Mobile.
+- Navegação entre telas
+- Consumo de dados do fireBase
+- Variáveis de ambiente
 
 ## Ferramentas e Linguagem utilizada
 [![Minhas habilidades](https://skillicons.dev/icons?i=git,github,react,vscode,npm,javascript,nodejs,)](https://skillicons.dev)
@@ -24,6 +27,8 @@
 ![card](https://github.com/user-attachments/assets/f7012373-abd3-402b-97e9-edd0ca390079)
 ![login](https://github.com/user-attachments/assets/090cd0f4-17dd-4d81-9549-43f64ce00a58)
 
+![Loginreact](https://github.com/user-attachments/assets/194c79f8-222f-4282-b320-5d55f2019bc5)
+![cursos](https://github.com/user-attachments/assets/df7003d2-c90f-4d46-8731-b2af9643e630)
 
 </details>
 
@@ -32,3 +37,6 @@
 - `npm start` / **W** (WEB)
 - `npx expo start --tunnel` (em caso de divergências na rede wifi)
 - `npm start` (rodar projeto sem conflitos)
+
+## Exemplo de arquivo .env
+FIREBASE_API_KEY=your_api_key FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com FIREBASE_DATABASE_URL=https://your_project.firebaseio.com FIREBASE_PROJECT_ID=your_project_id FIREBASE_STORAGE_BUCKET=your_project.appspot.com FIREBASE_MESSAGING_SENDER_ID=your_sender_id FIREBASE_APP_ID=your_app_id
